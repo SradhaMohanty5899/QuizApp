@@ -1,0 +1,18 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  overflow: hidden; /* Prevent scrolling */
+  font-family: Arial, sans-serif;
+}
+
+#root {
+  height: 100%;
+}
+
+body {
+  background-color: #F1948A;
+}
+
+
+
